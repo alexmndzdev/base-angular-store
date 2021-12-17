@@ -7,6 +7,7 @@ import { ProductComponent } from './components/product/product.component';
 import { CartComponent } from './components/cart/cart.component';
 import { ExponentialPipe } from './pipes/exponential.pipe';
 import { HighlightDirective } from './directives/highlight.directive';
+import { HomeComponent } from './components/home/home.component';
 import { ProductsComponent } from './components/products/products.component';
 import { ContactComponent } from './components/contact/contact.component';
 
@@ -17,6 +18,7 @@ import { ContactComponent } from './components/contact/contact.component';
     CartComponent,
     ExponentialPipe,
     HighlightDirective,
+    HomeComponent,
     ProductsComponent,
     ContactComponent
   ],
